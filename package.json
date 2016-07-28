@@ -1,0 +1,11 @@
+{
+  "name": "busca-imovel",
+  "version": "1.0.0",
+  "description": "Buscador de locais apropriados para se mudar no RJ",
+  "main": "app.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

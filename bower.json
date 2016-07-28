@@ -1,0 +1,17 @@
+{
+  "name": "busca-imovel",
+  "description": "Buscador de locais apropriados para se mudar no RJ",
+  "main": "app.py",
+  "authors": [
+    "Junior Carvalho <junior@btfit.com.br>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
