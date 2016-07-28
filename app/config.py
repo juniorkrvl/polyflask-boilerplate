@@ -8,9 +8,6 @@ class Config:
     TEMPLATES_FOLDER = './views/src/templates'
     STATIC_FOLDER = './views/src/static'
 
-    #Google Maps Credentials
-    GOOGLE_MAPS_API_KEY = "AIzaSyCyCYMDQugVcWxyf6MExgX1NrkehqdsuUM"
-
     @staticmethod
     def init_app(app):
         pass
