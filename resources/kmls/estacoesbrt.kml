@@ -1,0 +1,2470 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="Nome" type="string"></SimpleField>
+	<SimpleField name="Flg_Ativo" type="int"></SimpleField>
+	<SimpleField name="Status" type="int"></SimpleField>
+	<SimpleField name="X" type="float"></SimpleField>
+	<SimpleField name="Y" type="float"></SimpleField>
+	<SimpleField name="Flg_TransCarioca" type="int"></SimpleField>
+	<SimpleField name="Flg_TransBrasil" type="int"></SimpleField>
+	<SimpleField name="Flg_TransOeste" type="int"></SimpleField>
+	<SimpleField name="Flg_TransOlimpica" type="int"></SimpleField>
+	<SimpleField name="ChaveGeo" type="string"></SimpleField>
+	<SimpleField name="Data_Inc" type="string"></SimpleField>
+</Schema>
+<Folder><name>estacoesbrt</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="Nome">Santa Luzia</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">679342.4694</SimpleData>
+		<SimpleData name="Y">7471499.5425</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.252438634141619,-22.855128925241779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="Nome">Maré</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">680236.1565</SimpleData>
+		<SimpleData name="Y">7472379.5698</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.243833614317701,-22.847086988508256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="Nome">Cardoso de Moraes - Viúva Garcia</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">678744.056</SimpleData>
+		<SimpleData name="Y">7471252.0929</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.258240467419256,-22.857427173115237</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="Nome">Penha I</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">676833.5642</SimpleData>
+		<SimpleData name="Y">7473029.3037</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.277056981356303,-22.841582499430043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="Nome">Penha II</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">676873.5062</SimpleData>
+		<SimpleData name="Y">7472976.5159</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.276661856634846,-22.842054936246257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="Nome">Pastor José Santos</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">676190.5946</SimpleData>
+		<SimpleData name="Y">7473311.0143</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.283352787795124,-22.839106445535307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="Nome">Guaporé</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">675532.0252</SimpleData>
+		<SimpleData name="Y">7473471.5235</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">PL5D9Z57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.289786668672164,-22.837726158851392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="Nome">Praça do Carmo</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">674988.3298</SimpleData>
+		<SimpleData name="Y">7473355.5286</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.295070238101907,-22.838830350502281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="Nome">Pedro Taques</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">674611.7594</SimpleData>
+		<SimpleData name="Y">7473064.8038</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">65YCHW27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.298706132929411,-22.841494727927426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="Nome">Vila Kosmos - Nossa Senhora do Carmo</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">673654.1417</SimpleData>
+		<SimpleData name="Y">7472161.2863</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">PTOCRGT6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.307934503197025,-22.849752609289869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="Nome">Vicente de Carvalho</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">673149.3342</SimpleData>
+		<SimpleData name="Y">7471836.7754</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.312816598862128,-22.852735050147754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="Nome">Marambaia</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">672368.9065</SimpleData>
+		<SimpleData name="Y">7471812.6004</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">E2FCK6R6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.320417692657529,-22.85303377445646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="Nome">Vaz Lobo</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">671548.7094</SimpleData>
+		<SimpleData name="Y">7471424.5497</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">FC8CM2O6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.328366140151324,-22.856621913763583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="Nome">Vila Queiroz</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">671336.5613</SimpleData>
+		<SimpleData name="Y">7470886.1255</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">397CO2K6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.330373787581109,-22.861505452420555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="Nome">Otaviano</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">670920.1446</SimpleData>
+		<SimpleData name="Y">7470408.1547</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">4Y3CIMG6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.334378646805355,-22.865863945687924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="Nome">Santa Efigênia</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">667002.8565</SimpleData>
+		<SimpleData name="Y">7462616.7949</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.371709715171306,-22.93661420042643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="Nome">Divina Providência</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">666915.8421</SimpleData>
+		<SimpleData name="Y">7462170.4725</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.372509864247995,-22.940653128544525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="Nome">Merck</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">667001.6034</SimpleData>
+		<SimpleData name="Y">7462738.861</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.37173511518364,-22.935512086816498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="Nome">Terminal Bandeira Brasil</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">666803.5236</SimpleData>
+		<SimpleData name="Y">7464012.4314</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">S4LA9U45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.373803583602125,-22.92403171410939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="Nome">Tanque</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">668098.5115</SimpleData>
+		<SimpleData name="Y">7464924.017</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">F2GBX365</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.361278500763405,-22.915670446564508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="Nome">Madureira-Manaceia</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">670729.4584</SimpleData>
+		<SimpleData name="Y">7469130.0159</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">B12CK956</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.336096103772128,-22.877424682649764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="Nome">Rio II</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">665676.8133</SimpleData>
+		<SimpleData name="Y">7458577.1701</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.384204544500768,-22.973223684453544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="Nome">Pedro Correia</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">665031.6112</SimpleData>
+		<SimpleData name="Y">7459193.1928</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">ZUPA82V3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.390562460447029,-22.967725080373793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="Nome">Hospital Sarah</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">666457.0827</SimpleData>
+		<SimpleData name="Y">7458550.0606</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">7ZZAAAO3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.376592423546235,-22.973390725572141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="Nome">Centro Metropolitano</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">667584.2118</SimpleData>
+		<SimpleData name="Y">7458530.243</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">79ABL4O3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.365598533494811,-22.973456711117567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="Nome">Curicica</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">665234.5159</SimpleData>
+		<SimpleData name="Y">7460056.1807</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">CVPAR614</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.388676161622847,-22.959912288016337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="Nome">Praça do Bandolim</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">665786.4723</SimpleData>
+		<SimpleData name="Y">7460195.8042</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.383308976737652,-22.95859672234133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="Nome">Arroio Pavuna</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">666408.4262</SimpleData>
+		<SimpleData name="Y">7460556.412</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">T83B1U64</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.377283179709636,-22.955278541778878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="Nome">Vila Sapê - IV Centenário</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">666690.3031</SimpleData>
+		<SimpleData name="Y">7460880.3159</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">755B3G94</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.374569632082078,-22.952325593616365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="Nome">Recanto das Palmeiras - Jardim São Luiz</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">666923.8079</SimpleData>
+		<SimpleData name="Y">7461334.6512</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">XX5BPMB4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.372341931926201,-22.948199670085256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="Nome">Andre Rocha</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">666845.2945</SimpleData>
+		<SimpleData name="Y">7463418.5011</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">HWXAWSL4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.373332331010133,-22.929390656740679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">32</SimpleData>
+		<SimpleData name="Nome">Taquara</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">666804.0446</SimpleData>
+		<SimpleData name="Y">7464001.1081</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">S4LA9U45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.373797284006827,-22.92413391008218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="Nome">Aracy Cabral</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">667381.3771</SimpleData>
+		<SimpleData name="Y">7464439.0353</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">JKCBFU35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.368216553447802,-22.920121743313864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="Nome">Terminal Mestre Candeia</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">668106.756</SimpleData>
+		<SimpleData name="Y">7464937.0167</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">F2GBX365</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.36119954666885,-22.915552232186581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="Nome">Ipase</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">668550.6613</SimpleData>
+		<SimpleData name="Y">7466132.3282</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">ZUKBPGI5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.357002557555909,-22.904714077496436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">36</SimpleData>
+		<SimpleData name="Nome">Praça Seca</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">669052.2098</SimpleData>
+		<SimpleData name="Y">7466902.913</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.352198053950879,-22.897705214346399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="Nome">Capitão Menezes</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">669428.8869</SimpleData>
+		<SimpleData name="Y">7467443.1399</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.348585842529424,-22.892788963452144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">38</SimpleData>
+		<SimpleData name="Nome">Pinto Teles</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">669720.4656</SimpleData>
+		<SimpleData name="Y">7467929.1109</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">9PSB9CU5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.34579729251292,-22.888371195046624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">39</SimpleData>
+		<SimpleData name="Nome">Campinho</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">670129.928</SimpleData>
+		<SimpleData name="Y">7468602.2304</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">5YVBHFZ5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.341880617701946,-22.882251498344885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">40</SimpleData>
+		<SimpleData name="Nome">Terminal Paulo da Portela</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">670721.7874</SimpleData>
+		<SimpleData name="Y">7469116.8522</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">B12CK956</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.336169408653227,-22.87754432988169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="Nome">Mercadão</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">670776.9484</SimpleData>
+		<SimpleData name="Y">7469876.8256</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.335715508825302,-22.870676327308303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">42</SimpleData>
+		<SimpleData name="Nome">Ibiapina</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">677308.3931</SimpleData>
+		<SimpleData name="Y">7472937.286</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.272420666330042,-22.842363243559667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">43</SimpleData>
+		<SimpleData name="Nome">Olaria - Cacique de Ramos</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">678018.4898</SimpleData>
+		<SimpleData name="Y">7472237.6761</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.265422699155579,-22.848605123260828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">44</SimpleData>
+		<SimpleData name="Nome">Terminal Fundão - Aroldo Melodia</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">680639.5657</SimpleData>
+		<SimpleData name="Y">7473179.8781</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.239996487636667,-22.839817321062885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">45</SimpleData>
+		<SimpleData name="Nome">Via Parque</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">667570.5911</SimpleData>
+		<SimpleData name="Y">7457367.1485</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">DEBBDZD3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.365605019406445,-22.98396056506407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">46</SimpleData>
+		<SimpleData name="Nome">Aeroporto de Jacarepaguá</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">667550.791</SimpleData>
+		<SimpleData name="Y">7456808.7301</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.365737446029847,-22.989004945994974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">47</SimpleData>
+		<SimpleData name="Nome">Lourenço Jorge</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">667535.8977</SimpleData>
+		<SimpleData name="Y">7456079.0799</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.365803398563195,-22.995595012511501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">48</SimpleData>
+		<SimpleData name="Nome">Tom Jobim 1</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">679502.5562</SimpleData>
+		<SimpleData name="Y">7476357.8081</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.251439637559926,-22.811244530294292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">49</SimpleData>
+		<SimpleData name="Nome">Tom Jobim 2</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">680019.0118</SimpleData>
+		<SimpleData name="Y">7475997.8294</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.246367852780701,-22.814439653830942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">50</SimpleData>
+		<SimpleData name="Nome">Terminal Alvorada</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">667503.4512</SimpleData>
+		<SimpleData name="Y">7455546.597</SimpleData>
+		<SimpleData name="Flg_TransCarioca">1</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.366061986340938,-23.000406468893388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">51</SimpleData>
+		<SimpleData name="Nome">Cesarão II</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">637247.0653</SimpleData>
+		<SimpleData name="Y">7463270.6287</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.661890058284349,-22.933421006936271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">52</SimpleData>
+		<SimpleData name="Nome">Cesarão III</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">637727.3478</SimpleData>
+		<SimpleData name="Y">7463455.2311</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.657223553844545,-22.931714309455362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">53</SimpleData>
+		<SimpleData name="Nome">Vila Paciência</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">638087.5565</SimpleData>
+		<SimpleData name="Y">7463822.5644</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.653744219654598,-22.928367166480392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">54</SimpleData>
+		<SimpleData name="Nome">Três Pontes</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">638483.8907</SimpleData>
+		<SimpleData name="Y">7464145.4011</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.649908858695078,-22.925418808661838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">55</SimpleData>
+		<SimpleData name="Nome">Cesarinho</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">639148.985</SimpleData>
+		<SimpleData name="Y">7464691.2346</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.643473425868208,-22.920434118543195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">56</SimpleData>
+		<SimpleData name="Nome">31 de Outubro</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">639611.5726</SimpleData>
+		<SimpleData name="Y">7464933.1322</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.638985298568336,-22.918210956143419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">57</SimpleData>
+		<SimpleData name="Nome">Santa Eugênia</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">640254.7159</SimpleData>
+		<SimpleData name="Y">7465085.2967</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.632728947331877,-22.916782904904569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">58</SimpleData>
+		<SimpleData name="Nome">Júlia Miguel</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">640750.2068</SimpleData>
+		<SimpleData name="Y">7465210.6361</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.627909760558587,-22.91560931134811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">59</SimpleData>
+		<SimpleData name="Nome">Parque São Paulo</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">641323.1236</SimpleData>
+		<SimpleData name="Y">7465134.089</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.622317418003114,-22.916252250324639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">60</SimpleData>
+		<SimpleData name="Nome">Icurana</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">643020.1764</SimpleData>
+		<SimpleData name="Y">7465244.565</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.605783096111971,-22.915110177454714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">61</SimpleData>
+		<SimpleData name="Nome">Vilar Carioca</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">643487.5501</SimpleData>
+		<SimpleData name="Y">7465342.6929</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.601235832486388,-22.914183936988714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">62</SimpleData>
+		<SimpleData name="Nome">Inhoaíba</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">644070.3965</SimpleData>
+		<SimpleData name="Y">7465434.8176</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.595562371335284,-22.913301833188321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">63</SimpleData>
+		<SimpleData name="Nome">Golfe Olímpico</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">662778.8355</SimpleData>
+		<SimpleData name="Y">7455640.2223</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.412155898192779,-23.000029837994177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">65</SimpleData>
+		<SimpleData name="Nome">Ana Gonzaga</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">644674.4701</SimpleData>
+		<SimpleData name="Y">7465648.462</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.589693413773013,-22.911320273312931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">66</SimpleData>
+		<SimpleData name="Nome">São Jorge</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">645246.0738</SimpleData>
+		<SimpleData name="Y">7465696.3482</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.584125618755685,-22.910838251396772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">67</SimpleData>
+		<SimpleData name="Nome">Pina Rangel</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">646112.0026</SimpleData>
+		<SimpleData name="Y">7466058.5567</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.575718330191542,-22.907491770659082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">68</SimpleData>
+		<SimpleData name="Nome">Parque Esperança</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">646536.0498</SimpleData>
+		<SimpleData name="Y">7466121.1072</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.571590557850314,-22.906889779336002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">69</SimpleData>
+		<SimpleData name="Nome">Cândido Magalhães</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">647320.7627</SimpleData>
+		<SimpleData name="Y">7466032.7958</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.563932685669414,-22.907618329743265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">70</SimpleData>
+		<SimpleData name="Nome">Prefeito Alim Pedro</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">647092.9889</SimpleData>
+		<SimpleData name="Y">7466475.8203</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.5661951326544,-22.903637559835946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">71</SimpleData>
+		<SimpleData name="Nome">Gramado</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">647090.1188</SimpleData>
+		<SimpleData name="Y">7466479.2758</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.566223438149009,-22.903606606681201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">72</SimpleData>
+		<SimpleData name="Nome">Santa Verediana</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">636906.7966</SimpleData>
+		<SimpleData name="Y">7462492.2484</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.665138897733115,-22.940478536629175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">73</SimpleData>
+		<SimpleData name="Nome">Gastão Rangel</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">635650.9103</SimpleData>
+		<SimpleData name="Y">7463935.1495</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.677511551599814,-22.927550088358235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">74</SimpleData>
+		<SimpleData name="Nome">Terminal Santa Cruz</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">635035.0111</SimpleData>
+		<SimpleData name="Y">7465122.3778</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.683620205276213,-22.916877975076044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">75</SimpleData>
+		<SimpleData name="Nome">Parque das Rosas</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">668885.3293</SimpleData>
+		<SimpleData name="Y">7455567.1627</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.352585596563948,-23.000081117026127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">76</SimpleData>
+		<SimpleData name="Nome">Cesarão</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">636897.9821</SimpleData>
+		<SimpleData name="Y">7463146.7256</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.665282795281584,-22.934568640788221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">77</SimpleData>
+		<SimpleData name="Nome">Cosmos</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">641970.041</SimpleData>
+		<SimpleData name="Y">7465194.0494</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.616016118485902,-22.915655919677576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">78</SimpleData>
+		<SimpleData name="Nome">Recanto das Garças</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">654096.8985</SimpleData>
+		<SimpleData name="Y">7453408.3407</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.496618926756888,-23.021010917128535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">79</SimpleData>
+		<SimpleData name="Nome">Dom Bosco</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">652836.9668</SimpleData>
+		<SimpleData name="Y">7453729.2847</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.508942718612808,-23.018228976269899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">80</SimpleData>
+		<SimpleData name="Nome">CTEx</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">647781.8001</SimpleData>
+		<SimpleData name="Y">7455219.5104</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">Z1P6LYV2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.558403802682655,-23.005228356467562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">81</SimpleData>
+		<SimpleData name="Nome">Embrapa</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">645326.8216</SimpleData>
+		<SimpleData name="Y">7455873.6957</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.582414286024559,-22.999536860367247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">82</SimpleData>
+		<SimpleData name="Nome">Terminal Campo Grande</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">648252.6075</SimpleData>
+		<SimpleData name="Y">7466671.6633</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.554910085130189,-22.901766554993504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">83</SimpleData>
+		<SimpleData name="Nome">Nova Barra</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">656686.9454</SimpleData>
+		<SimpleData name="Y">7453981.534</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">ZWS8GBM2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.47140897467068,-23.015592804503999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">84</SimpleData>
+		<SimpleData name="Nome">Vendas de Varanda</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">638370.15</SimpleData>
+		<SimpleData name="Y">7461329.0543</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.650765753958929,-22.95086266217378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">85</SimpleData>
+		<SimpleData name="Nome">Curral Falso</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">636730.4909</SimpleData>
+		<SimpleData name="Y">7462930.6497</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.666896812928442,-22.936533760608224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">86</SimpleData>
+		<SimpleData name="Nome">Cajueiros</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">636064.6766</SimpleData>
+		<SimpleData name="Y">7463566.9326</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.67344492587241,-22.930841832361928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">87</SimpleData>
+		<SimpleData name="Nome">Terminal Jd. Oceânico</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">673068.8522</SimpleData>
+		<SimpleData name="Y">7454778.4795</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.311692204167755,-23.00677277139356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">88</SimpleData>
+		<SimpleData name="Nome">Cittá América</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">671889.6407</SimpleData>
+		<SimpleData name="Y">7455143.5403</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.323235109648365,-23.003598678023252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">89</SimpleData>
+		<SimpleData name="Nome">Porto dos Cabritos</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">671289.3165</SimpleData>
+		<SimpleData name="Y">7455405.8147</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">OT7CB4X2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.329119791391207,-23.001292351283304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">90</SimpleData>
+		<SimpleData name="Nome">Freeway</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">670638.4666</SimpleData>
+		<SimpleData name="Y">7455495.8297</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.335478018176296,-23.000546410152218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">91</SimpleData>
+		<SimpleData name="Nome">Riviera</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">669982.4992</SimpleData>
+		<SimpleData name="Y">7455534.7983</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.341880475471477,-23.000261662955939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">92</SimpleData>
+		<SimpleData name="Nome">Ricardo Marinho</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">669518.3111</SimpleData>
+		<SimpleData name="Y">7455550.5184</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">F3RBDOY2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.346409793845069,-23.000167059417805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">93</SimpleData>
+		<SimpleData name="Nome">Barra Shopping</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">668060.9803</SimpleData>
+		<SimpleData name="Y">7455587.6412</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.36062839041589,-22.999979645975905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">94</SimpleData>
+		<SimpleData name="Nome">Bosque da Barra</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">666341.5087</SimpleData>
+		<SimpleData name="Y">7455570.5399</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.377398075463233,-23.00030680574822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">95</SimpleData>
+		<SimpleData name="Nome">Novo Leblon</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">665752.0627</SimpleData>
+		<SimpleData name="Y">7455566.2133</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">AXVAQYY2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.383147043227538,-23.000404682037573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">96</SimpleData>
+		<SimpleData name="Nome">Américas Park</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">665076.2154</SimpleData>
+		<SimpleData name="Y">7455572.6405</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.389739945033199,-23.000413816702494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">97</SimpleData>
+		<SimpleData name="Nome">Santa Mônica Jardins</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">664184.5856</SimpleData>
+		<SimpleData name="Y">7455605.0165</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.398440384330598,-23.00020966264357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">98</SimpleData>
+		<SimpleData name="Nome">Rio Mar</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">663322.7851</SimpleData>
+		<SimpleData name="Y">7455644.8619</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.406850663679279,-22.999934653792796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">99</SimpleData>
+		<SimpleData name="Nome">Interlagos</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">662238.4136</SimpleData>
+		<SimpleData name="Y">7455553.2912</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">FO3AVUY2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.417418076950256,-23.000867591744171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">100</SimpleData>
+		<SimpleData name="Nome">Pedra de Itaúna</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">661562.4112</SimpleData>
+		<SimpleData name="Y">7455334.9587</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.423989039771563,-23.002904897696482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">101</SimpleData>
+		<SimpleData name="Nome">Pontões/Barrasul</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">660748.8158</SimpleData>
+		<SimpleData name="Y">7455058.1378</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.431896267562372,-23.005483392020381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">102</SimpleData>
+		<SimpleData name="Nome">Salvador Allende</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">659643.7292</SimpleData>
+		<SimpleData name="Y">7454761.1583</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">BSH99NS2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.442645168874698,-23.008271537154684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">103</SimpleData>
+		<SimpleData name="Nome">Gelson Fonseca</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">659031.5398</SimpleData>
+		<SimpleData name="Y">7454602.0193</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.448600546614045,-23.009767211592354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">104</SimpleData>
+		<SimpleData name="Nome">Guignard</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">658619.2781</SimpleData>
+		<SimpleData name="Y">7454495.6601</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.452611192688828,-23.010767008371317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">105</SimpleData>
+		<SimpleData name="Nome">Gláucio Gil</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">657971.6558</SimpleData>
+		<SimpleData name="Y">7454319.7988</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.458910751007672,-23.012416689601377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">106</SimpleData>
+		<SimpleData name="Nome">Benvindo de Novaes</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">657177.8991</SimpleData>
+		<SimpleData name="Y">7454112.5103</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">Z2Z8EYN2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.46663286118374,-23.014363737783775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">107</SimpleData>
+		<SimpleData name="Nome">Gilka Machado</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">656110.2474</SimpleData>
+		<SimpleData name="Y">7453827.0712</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.477019288181687,-23.01704187110165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">108</SimpleData>
+		<SimpleData name="Nome">Guiomar Novais</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">655541.2472</SimpleData>
+		<SimpleData name="Y">7453680.004</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+		<SimpleData name="ChaveGeo">WJH88CJ2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.482555382680673,-23.01842324084253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">109</SimpleData>
+		<SimpleData name="Nome">Recreio Shopping </SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">655060.4679</SimpleData>
+		<SimpleData name="Y">7453551.521</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.487232802565792,-23.019628377736094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">110</SimpleData>
+		<SimpleData name="Nome">Notre Dame</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">653727.9158</SimpleData>
+		<SimpleData name="Y">7453457.8898</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.5002236710936,-23.020597630323863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">111</SimpleData>
+		<SimpleData name="Nome">Pontal</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">652118.4719</SimpleData>
+		<SimpleData name="Y">7453953.3278</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.515974397112302,-23.016271664636054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">112</SimpleData>
+		<SimpleData name="Nome">Ilha de Guaratiba</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">649680.9819</SimpleData>
+		<SimpleData name="Y">7454736.7711</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.539830215699659,-23.009417967818482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">113</SimpleData>
+		<SimpleData name="Nome">Mato Alto</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">643868.3822</SimpleData>
+		<SimpleData name="Y">7456519.7944</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.596701468738964,-22.993828827203345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">114</SimpleData>
+		<SimpleData name="Nome">Magarça</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">641302.2234</SimpleData>
+		<SimpleData name="Y">7459334.162</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.621990976738729,-22.968632502908193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">115</SimpleData>
+		<SimpleData name="Nome">Pingo DÁgua</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">638715.5649</SimpleData>
+		<SimpleData name="Y">7459777.6324</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.647258059038187,-22.96484481263715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">116</SimpleData>
+		<SimpleData name="Nome">General Olímpo</SimpleData>
+		<SimpleData name="Flg_Ativo">1</SimpleData>
+		<SimpleData name="Status">1</SimpleData>
+		<SimpleData name="X">635441.9484</SimpleData>
+		<SimpleData name="Y">7464526.4505</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">1</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.679600701835071,-22.92222693641261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">117</SimpleData>
+		<SimpleData name="Nome">Terminal Deodoro</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">665843.4234</SimpleData>
+		<SimpleData name="Y">7471787.908</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.383994840134129,-22.853915066083292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">118</SimpleData>
+		<SimpleData name="Nome">Carrefour</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">666558.5458</SimpleData>
+		<SimpleData name="Y">7472762.9123</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.377131570775937,-22.845039893687552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">119</SimpleData>
+		<SimpleData name="Nome">Barros Filho</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">667436.8306</SimpleData>
+		<SimpleData name="Y">7473337.1264</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.368636458373381,-22.839767306506488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">120</SimpleData>
+		<SimpleData name="Nome">Coelho Neto</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">669277.6591</SimpleData>
+		<SimpleData name="Y">7474284.4756</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.35080555259966,-22.83102809834557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">121</SimpleData>
+		<SimpleData name="Nome">Irajá</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">671617.1874</SimpleData>
+		<SimpleData name="Y">7475162.2992</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.328111528874629,-22.822863912246888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">122</SimpleData>
+		<SimpleData name="Nome">Correia Andrade</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">673650.1937</SimpleData>
+		<SimpleData name="Y">7475658.3968</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.308363448500835,-22.818175238449722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">123</SimpleData>
+		<SimpleData name="Nome">Ponto Chique</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">675299.3735</SimpleData>
+		<SimpleData name="Y">7476000.6733</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.292338094592623,-22.814913247875168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">124</SimpleData>
+		<SimpleData name="Nome">Terminal Margaridas</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">672129.0956</SimpleData>
+		<SimpleData name="Y">7475458.0375</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.323157739562269,-22.820141055493988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">125</SimpleData>
+		<SimpleData name="Nome">Terminal Missões</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">675515.4976</SimpleData>
+		<SimpleData name="Y">7476115.9835</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.29024598801162,-22.813849467603788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">126</SimpleData>
+		<SimpleData name="Nome">Brás de Pina</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">676152.2776</SimpleData>
+		<SimpleData name="Y">7475477.6188</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.283971409877914,-22.819546966877979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">127</SimpleData>
+		<SimpleData name="Nome">Marinha do Brasil</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">677394.4266</SimpleData>
+		<SimpleData name="Y">7474403.9889</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.271749833692759,-22.829110547899511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">128</SimpleData>
+		<SimpleData name="Nome">Marinha Mercante</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">678789.9309</SimpleData>
+		<SimpleData name="Y">7473521.051</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.258054540015493,-22.836934895176093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">129</SimpleData>
+		<SimpleData name="Nome">Piscinão de Ramos</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">679508.147</SimpleData>
+		<SimpleData name="Y">7472846.4986</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.250980052049563,-22.842949000610137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">130</SimpleData>
+		<SimpleData name="Nome">Rubens Vaz</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">679842.4079</SimpleData>
+		<SimpleData name="Y">7471719.637</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.247593256922848,-22.853088044232031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">131</SimpleData>
+		<SimpleData name="Nome">Nova Holanda</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">679813.587</SimpleData>
+		<SimpleData name="Y">7470847.0187</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.247773029304113,-22.860970324309811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">132</SimpleData>
+		<SimpleData name="Nome">Joana Nascimento</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">679822.3207</SimpleData>
+		<SimpleData name="Y">7470221.6801</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.247615507928927,-22.866615791581609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">133</SimpleData>
+		<SimpleData name="Nome">Fiocruz</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">680286.4669</SimpleData>
+		<SimpleData name="Y">7469251.946</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.242980354349633,-22.875321948049027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">134</SimpleData>
+		<SimpleData name="Nome">Parque Vitória</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">680969.541</SimpleData>
+		<SimpleData name="Y">7468263.7505</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.236208992170972,-22.88417096013081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">135</SimpleData>
+		<SimpleData name="Nome">São Francisco</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">682168.254</SimpleData>
+		<SimpleData name="Y">7467952.7684</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.224491147862288,-22.886848850030887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">136</SimpleData>
+		<SimpleData name="Nome">Caju</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">682570.5248</SimpleData>
+		<SimpleData name="Y">7467664.0082</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.220537005127078,-22.889412286264484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">137</SimpleData>
+		<SimpleData name="Nome">I.N.T.O</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">683094.7585</SimpleData>
+		<SimpleData name="Y">7467130.1047</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.215365188374108,-22.894175710848991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">138</SimpleData>
+		<SimpleData name="Nome">Terminal Rodoviária</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">683615.824</SimpleData>
+		<SimpleData name="Y">7466528.7997</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.210215900272296,-22.89954786628331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">139</SimpleData>
+		<SimpleData name="Nome">TerminalAmérico Fontenelle</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">685412.4392</SimpleData>
+		<SimpleData name="Y">7466224.0723</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.192669945986857,-22.9021010600427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">140</SimpleData>
+		<SimpleData name="Nome">Cidade Nova</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">684259.1471</SimpleData>
+		<SimpleData name="Y">7465425.4939</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.203814932401684,-22.909438968634788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">141</SimpleData>
+		<SimpleData name="Nome">Sambódromo</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">684862.0985</SimpleData>
+		<SimpleData name="Y">7465643.4965</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.197964270432777,-22.907404043284231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">142</SimpleData>
+		<SimpleData name="Nome">Terminal Presidente Vargas</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">686559.3857</SimpleData>
+		<SimpleData name="Y">7466207.1893</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">1</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.181489855284148,-22.902125940013786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">143</SimpleData>
+		<SimpleData name="Nome">Terminal Salvador Allende</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">659823.2512</SimpleData>
+		<SimpleData name="Y">7454725.5556</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.440890268906486,-23.00857579592958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">144</SimpleData>
+		<SimpleData name="Nome">Viva Viver</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">660533.0373</SimpleData>
+		<SimpleData name="Y">7455240.0876</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.434020058787212,-23.003861208468916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">145</SimpleData>
+		<SimpleData name="Nome">Tapebuias</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">661060.2058</SimpleData>
+		<SimpleData name="Y">7455719.8117</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.428927967526143,-22.999478344321975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">146</SimpleData>
+		<SimpleData name="Nome">CNEN</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">662080.1531</SimpleData>
+		<SimpleData name="Y">7456681.4702</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.419080426981878,-22.990695561209233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">147</SimpleData>
+		<SimpleData name="Nome">Olof Palme</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">663014.678</SimpleData>
+		<SimpleData name="Y">7457650.3157</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.410068029099016,-22.981855690545562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">148</SimpleData>
+		<SimpleData name="Nome">Riocentro</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">663349.7739</SimpleData>
+		<SimpleData name="Y">7458125.8697</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.406850276159616,-22.977528631226431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">149</SimpleData>
+		<SimpleData name="Nome">Morro do Outeiro</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">663851.6557</SimpleData>
+		<SimpleData name="Y">7458715.8063</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.402018352493805,-22.972152256973825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">150</SimpleData>
+		<SimpleData name="Nome">Terminal Centro Olímpico</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">663896.3756</SimpleData>
+		<SimpleData name="Y">7458667.0087</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.401577059548622,-22.972588499374712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">151</SimpleData>
+		<SimpleData name="Nome">Minha Praia</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">664387.3508</SimpleData>
+		<SimpleData name="Y">7459316.0632</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.396858171140991,-22.966679227826692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">152</SimpleData>
+		<SimpleData name="Nome">Bandeirantes</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">664727.006</SimpleData>
+		<SimpleData name="Y">7459709.5008</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.39358796432623,-22.963092990450168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">153</SimpleData>
+		<SimpleData name="Nome">Hospital Raphael de P. S.</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">664944.18</SimpleData>
+		<SimpleData name="Y">7460565.029</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.391561602441101,-22.955346172955739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">154</SimpleData>
+		<SimpleData name="Nome">Curicica</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">664944.9274</SimpleData>
+		<SimpleData name="Y">7461375.618</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.39164085575689,-22.94802654174044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">155</SimpleData>
+		<SimpleData name="Nome">Colonia</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">664648.2995</SimpleData>
+		<SimpleData name="Y">7462372.2026</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.39463921699852,-22.939056732736439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">156</SimpleData>
+		<SimpleData name="Nome">Outeiro Santo</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">664551.8682</SimpleData>
+		<SimpleData name="Y">7463557.8539</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.39570554262059,-22.928359854405308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">157</SimpleData>
+		<SimpleData name="Nome">Boiúna</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">664373.5388</SimpleData>
+		<SimpleData name="Y">7464876.1409</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.397584081991511,-22.916473304647749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">158</SimpleData>
+		<SimpleData name="Nome">Marechal Fontenelle</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">664095.9896</SimpleData>
+		<SimpleData name="Y">7468251.3602</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.400647127652881,-22.886022280923804</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">159</SimpleData>
+		<SimpleData name="Nome">Marechal Mallet</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">663615.1812</SimpleData>
+		<SimpleData name="Y">7469374.1856</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.40545147136131,-22.875930168705846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">160</SimpleData>
+		<SimpleData name="Nome">Magalhães Bastos</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">662717.0295</SimpleData>
+		<SimpleData name="Y">7470177.697</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.414288389527755,-22.868761892244983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">161</SimpleData>
+		<SimpleData name="Nome">Vila Militar</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">664022.2312</SimpleData>
+		<SimpleData name="Y">7470840.7974</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.401639690622616,-22.862646748097205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">163</SimpleData>
+		<SimpleData name="Nome">Terminal Sulacap</SimpleData>
+		<SimpleData name="Flg_Ativo">0</SimpleData>
+		<SimpleData name="Status">0</SimpleData>
+		<SimpleData name="X">664220.4598</SimpleData>
+		<SimpleData name="Y">7468441.5413</SimpleData>
+		<SimpleData name="Flg_TransCarioca">0</SimpleData>
+		<SimpleData name="Flg_TransBrasil">0</SimpleData>
+		<SimpleData name="Flg_TransOeste">0</SimpleData>
+		<SimpleData name="Flg_TransOlimpica">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.39945419757543,-22.884292729866175</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

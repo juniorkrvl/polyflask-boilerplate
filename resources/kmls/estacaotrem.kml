@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID" type="int"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesCod" type="int"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesNome" type="string"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus" type="string"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraMetro" type="string"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesFlg_Terminal" type="string"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesFlg_TransfRamal" type="string"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesFlg_TransfCentral" type="string"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraTele" type="string"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun" type="int"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa" type="int"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesStatus" type="int"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesFlg_BelfordRoxo" type="string"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesFlg_Saracuruna" type="string"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesFlg_Deodoro" type="string"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz" type="string"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesFlg_Japeri" type="string"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesFlg_Paracambi" type="string"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesFlg_VilaInhomirim" type="string"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesFlg_Guapimirim" type="string"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOFerrovia_EstacoesData_Inc" type="string"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação" type="int"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR" type="int"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOPassageiros_diarios_TremEstação" type="string"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOPassageiros_diarios_TremP2011" type="float"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOPassageiros_diarios_TremP2012" type="float"></SimpleField>
+	<SimpleField name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID" type="string"></SimpleField>
+</Schema>
+<Folder><name>estacaotrem</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">43</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">12</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Central do Brasil</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraMetro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Terminal">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_TransfRamal">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_BelfordRoxo">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Saracuruna">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Deodoro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Japeri">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Paracambi">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_VilaInhomirim">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Guapimirim">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">12</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Central do Brasil (antiga Dom Pedro II )</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">90604.29041</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">89298.86575</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{331F1E98-BF75-4F38-AF06-F92FEDF299EF}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.191814883799999,-22.903522852799998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">68</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">42</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Praça da Bandeira</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Deodoro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">2</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">42</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Praça da Bandeira (antiga Lauro Muller)</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">3338.58904</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">3270.18082</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{E8B1169D-E60D-4075-B35A-8BAFE069CBFC}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.212791269599997,-22.909821008600002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">84</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">52</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">São Cristóvão</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraMetro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_TransfRamal">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_TransfCentral">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_BelfordRoxo">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Saracuruna">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Deodoro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">3</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">52</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">São Cristóvão</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">14885.17534</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">16703.77534</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{FC2E34FC-3EF0-4452-A111-EC57E3AE97F5}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.221944709799999,-22.9093710824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">69</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">28</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Maracanã</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_TransfRamal">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_BelfordRoxo">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Saracuruna">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Deodoro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Japeri">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">4</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">28</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Maracanã</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">719.76164</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">721.16164</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{C59A706B-4895-4C1C-824D-E914B7A6E21B}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.233701872799998,-22.9092713115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">67</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">26</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Mangueira</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Deodoro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">5</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">26</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Mangueira</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">2931.2</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">2728.45206</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{1E2E1FED-FC8D-4FF4-99F5-F534BF00150C}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.236736423899998,-22.9084539105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">83</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">53</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">São Francisco Xavier</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_TransfRamal">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Deodoro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Japeri">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">6</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">53</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">São Francisco Xavier</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">3113.32877</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">3352.09863</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{68179380-6BC2-4BC3-8E8B-0BCB88CE039F}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.24422163,-22.9025956479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">82</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">46</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Riachuelo</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Deodoro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">7</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">46</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Riachuelo do Rio</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">2692.53151</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">2824.05479</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{928F2737-A8DA-47B2-8ACE-009C74002117}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.255214743899998,-22.901409409500001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">81</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">49</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Sampaio</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Deodoro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">8</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">49</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Sampaio</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">1179.6548</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">1135.64658</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{9DD96C4D-EF39-4C13-8967-5CCDAEB0485D}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.262709672299998,-22.902002380700001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">80</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">19</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Engenho Novo</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Deodoro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">9</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">19</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Engenho Novo</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">2947.33973</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">2363.78904</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{91D7703A-17DD-4D9C-BA0E-9F91D784E52D}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.270787185800003,-22.903440351099999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">7</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">60</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Silva Freire</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Paracambi">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">10</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">60</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Silva Freire (4)</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">0</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">3328.19452</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{DA486F9E-49A4-4C52-9145-85B8C607BF9E}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.275567884799997,-22.9039282896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">70</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">30</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Méier</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Deodoro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">11</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">30</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Méier</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">7791.60822</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">6124.28767</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{D7FE4834-E3DB-47CA-9419-7F61B9071E7E}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.277991835599998,-22.901717025899998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">71</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">18</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Engenho de Dentro</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_TransfRamal">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Deodoro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Japeri">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">12</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">18</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Engenho de Dentro</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">9873.14521</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">9600.11507</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{B02FCB40-1E0B-4575-9719-21AEC16F8884}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.293700759,-22.895493225799999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">72</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">40</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Piedade</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Deodoro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">13</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">40</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Piedade</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">2850.72877</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">2700.73425</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{97FFFD34-E8AD-4887-8733-5E8A26E80F61}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.309309951199999,-22.890680660200001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">73</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">43</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Quintino</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Deodoro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">14</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">43</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Quintino Bocaiúva</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">1720.65206</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">1744.36712</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{13834633-F776-4278-803D-27E704C17372}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.320500065399997,-22.8886873716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">74</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">10</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Cascadura</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_TransfRamal">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Deodoro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Japeri">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">15</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">10</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Cascadura</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">7161.36438</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">7067.45479</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{50F6F4B1-1842-4763-8A91-DB42FD3DD08A}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.328026649100003,-22.882682800600001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">75</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">24</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Madureira</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_TransfRamal">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Deodoro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Japeri">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">16</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">24</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Madureira</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">18687.92055</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">18119.33699</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{F570F4C2-061F-46AF-8BE7-A6D3506DCB4E}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.337503118500003,-22.876633466299999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">76</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">33</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Osvaldo Cruz</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Deodoro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">17</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">33</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Oswaldo Cruz</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">2190.37808</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">2179.72877</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{B43E921E-C31B-4A68-B8D6-3487BB8E0954}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.350097479200002,-22.8691800848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">77</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">6</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Bento Ribeiro</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraTele">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Deodoro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">18</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">6</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Bento Ribeiro</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">2592.08219</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">2502.36712</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{6BF5D047-BBA3-430C-ACF1-20A280166546}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.360966866600002,-22.8644204213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">78</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">29</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Marechal Hermes</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Deodoro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">19</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">29</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Marechal Hermes</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">3471.58356</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">3514.27397</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{2C59ACB0-9968-4B23-8155-9A2400350450}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.371026259899999,-22.860753536200001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">79</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">17</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Deodoro</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Terminal">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_TransfRamal">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Deodoro">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Japeri">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">20</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">17</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Deodoro</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">4586.83014</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">4648.08767</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{29D58BBA-2EB0-419D-B1FD-0F9F9AAF955E}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.383451008900003,-22.8550090709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">10</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">59</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Vila Militar</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">21</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">59</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Vila Militar</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">531.78082</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">475.7863</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{7ABBD28A-AFAB-43AE-882D-4C50E72A7947}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.401826172699998,-22.862477802200001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">11</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">25</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Magalhães Bastos</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">22</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">25</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Cel. Magalhães Bastos</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">1625.74247</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">1493.90685</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{66AE03FF-295C-427E-AD98-70A3994D7B1A}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.413183021899997,-22.867985182599998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">12</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">45</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Realengo</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">23</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">45</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Realengo</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">3736.47123</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">3505.72603</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{B2FD78C7-F8EF-4AE0-B92E-18322378662A}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.429410293099998,-22.874761822100002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">13</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">35</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Padre Miguel</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">24</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">35</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Padre Miguel</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">2888.2548</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">2837.11233</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{6C6FC829-14DA-4A9A-9D7A-9783D66C213E}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.447382565300003,-22.875089094300002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">15</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">20</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Guilherme da Silveira</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">25</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">20</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Guilherme Silveira</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">2278.18904</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">2301.05753</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{574F7E25-51BC-4EA1-A587-5BC037B2280D}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.455983488,-22.875215831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">14</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">3</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Bangu</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Terminal">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">26</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">3</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Bangu</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">8674.06849</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">8954.96164</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{A014396F-E147-4B62-BCE7-25CD3214A4BE}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.464839906900004,-22.875338408200001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">17</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">54</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Senador Camará</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">27</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">54</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Senador Camará</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">2999.60548</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">3371.80548</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{2DB309EF-F771-4A84-8AAB-04025FD90AAE}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.486596387299997,-22.8758045513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">16</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">51</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Santíssimo</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">28</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">51</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Santíssimo </SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">1797.15616</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">1927.7863</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{49A8CBB3-CFBA-4B07-8413-9E9CFA7D5331}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.5116013775,-22.879802709300002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">18</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">2</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Augusto Vasconcelos</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">29</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">2</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Augusto Vasconcelos</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">1647.93151</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">1748.3863</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{2C71A9DA-98CC-410B-94FB-1343DD67583F}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.537111684300001,-22.892834908099999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">24</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">9</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Campo Grande</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Terminal">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">30</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">9</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Campo Grande</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">12240.30411</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">12737.50959</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{7143C51B-F7CC-4895-9F43-FBE21371D885}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.560232699700002,-22.9022627634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">25</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">5</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Benjamin do Monte</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">31</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">5</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Benjamim do Monte</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">1337.32055</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">1373.58082</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{616B3FC5-6E86-4D0D-A0ED-69ABD9CBCDB5}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.580646175299997,-22.906216756599999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">23</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">22</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Inhoaíba</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">32</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">22</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Inhoaíba</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">2820.89589</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">2895.29041</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{5A4B00B5-E7F9-4544-9137-78BFCC674516}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.595694998600003,-22.9091179674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">22</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">14</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Cosmos</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">33</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">14</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Cosmos</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">2748.52329</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">2809.02466</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{A47112E5-35EC-4DEA-8B01-FF6DBA9A550F}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.614564203299999,-22.912798921299999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">20</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">34</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Paciência</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">34</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">34</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Paciência</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">3733.49589</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">3837.68219</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{2CC2DF85-5E36-454F-A6D0-D0FD23731135}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.632649769300002,-22.9163075007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">21</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">55</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Tancredo Neves</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_IntegraOnibus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">35</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">55</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Tancredo Neves</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">1393.68219</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">1464.69589</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{2419DD6A-1D01-4E6F-B2CA-5D0E9A0BBA41}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.649343396399999,-22.9188924589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">19</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">50</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Santa Cruz</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Terminal">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_SantaCruz">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">36</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">50</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Santa Cruz</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">9161.96986</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">9452.11233</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{5AD98162-5F1D-41DD-97D8-2160A128F1C0}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.684649031200003,-22.915934906899999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">62</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">57</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Triagem</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_TransfRamal">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_BelfordRoxo">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Saracuruna">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">38</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">57</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Triagem</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">1127.76438</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">2503.26027</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{B37F7901-207D-4660-A132-2191329F476D}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.244098330200003,-22.896682272700001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">26</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">27</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Manguinhos</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Saracuruna">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">39</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">27</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Manguinhos</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">2461.10685</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">1216.34521</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{D069623D-7041-4E1C-A51B-19BD4AD669FB}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.250841783699997,-22.879729208400001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">27</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">7</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Bonsucesso</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Saracuruna">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">40</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">7</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Bonsucesso</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">1257.62466</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">3018.70685</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{2A3F454E-D400-48CD-B2F5-955D45C8A169}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.255413891400003,-22.867294695799998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">28</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">44</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Ramos</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Saracuruna">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">41</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">44</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Ramos</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">1381.34794</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">1288.61096</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{AEC9E25A-73CA-4FC8-A3F8-6D2F1C5CAFEF}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.260050469,-22.8550785491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">29</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">32</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Olaria</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Saracuruna">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">42</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">32</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Olaria</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">1259.63562</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">1407.74247</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{0752B7E0-890E-4D38-BF48-E6357CD0B3AD}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.2663213091,-22.847174006199999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">30</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">38</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Penha</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Saracuruna">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">43</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">38</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Penha</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">1171.3726</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">1357.01918</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{71865776-C40D-490A-9264-3802462140DB}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.278584014,-22.840371320900001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">31</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">39</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Penha Circular</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Saracuruna">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">44</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">39</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Penha Circular</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">549.68219</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">1272.12603</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{EBE6F2ED-AC59-4750-9731-A31E23C89BE0}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.285000856400003,-22.836621604699999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">32</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">8</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Brás de Pina</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Saracuruna">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">45</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">8</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Brás de Pina</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">715.05753</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">549.44384</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{4AC0A7E3-D6CC-48CD-A003-555EB0A557C7}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.292960826799998,-22.8303751023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">33</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">13</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Cordovil</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Saracuruna">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">46</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">13</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Cordovil</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">840.89315</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">725.26575</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{5B14CF5D-832E-43C2-B8C4-DC045577B674}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.295882736700001,-22.824002458399999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">34</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">36</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Parada de Lucas</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Saracuruna">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">47</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">36</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Parada de Lucas</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">560.0411</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">878.8274</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{633DD681-4202-4274-A4AD-0CF3D9868AE0}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.300701767699998,-22.8166491566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">35</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">58</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Vigário Geral</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Saracuruna">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">48</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">58</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Vigário Geral</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">6644.44384</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">600.54521</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{F57FA3E9-6D7E-4BD1-9958-63DD6402E148}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.305423031700002,-22.805118096299999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">61</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">23</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Jacarezinho</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_BelfordRoxo">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">54</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">23</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Jacarezinho (antiga Vieira Fazenda)</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">0</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">1164.50685</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{43F9474D-76DA-4EDD-A825-C1F502765F3F}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.2550405247,-22.883754379399999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">57</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">16</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Del Castilho</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_BelfordRoxo">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">55</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">16</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Del Castilho</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">1274.55616</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">773.10959</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{E3D18117-BCE3-4D53-9286-0E75799B17F1}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.269724164199999,-22.880401526100002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">56</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">41</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Pilares / Cintra Vidal</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_BelfordRoxo">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">56</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">41</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Cintra Vidal</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">639.66301</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">595.09041</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{AAC8FDE2-C4F5-4CE6-A474-5303DB36E827}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.291523374500002,-22.880934349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">55</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">56</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Tomás Coelho</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_BelfordRoxo">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">57</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">56</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Tomás Coelho</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">621.62466</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">577.47397</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{875B1D2A-EE09-4DB9-8D38-606CC945ED19}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.303936080699998,-22.868999646900001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">54</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">11</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Cavalcante</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_BelfordRoxo">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">58</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">11</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Cavalcante</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">584.73973</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">561.38356</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{D7657D95-7BE3-47F0-B90E-27B447C7DBB6}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.315710001699998,-22.8746048878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">53</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">31</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Mercadão de Madureira</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_BelfordRoxo">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">59</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">31</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Mercadão de Madureira (antiga Magno)</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">532.8411</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">2376.53973</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{78D1A1B1-5C27-417A-8245-A3664C9FB5E0}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.336895909299997,-22.873013621199998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">52</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">48</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Rocha Miranda</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_BelfordRoxo">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">60</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">48</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Rocha Miranda</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">2191.33151</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">467.88767</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{40F6D5B7-0F49-4B56-B716-8291D97BB703}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.351897807299999,-22.854434206400001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">51</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">21</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Honório Gurgel</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_BelfordRoxo">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">61</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">21</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Honório Gurgel</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">445.09863</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">655.08767</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{96C6F8F2-2140-4394-86E1-EED317F10B19}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.356286122699998,-22.8503832486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">58</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">4</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Barros Filho</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_BelfordRoxo">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">62</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">4</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Barros Filho</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">651.17534</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">261.73973</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{2508E127-F48C-48D4-8348-D4DB2A9ED981}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.366518285300003,-22.8331987525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">59</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">15</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Costa Barros</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_BelfordRoxo">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">63</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">15</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Costa Barros</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">243.67123</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">383.20822</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{D91C7915-09B8-4895-9C14-92E4139739A8}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.370136607100001,-22.821674462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">60</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">37</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Pavuna</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_BelfordRoxo">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">64</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">37</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Pavuna</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">502.38904</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">1370.30959</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{C2D7A2DC-FD50-44C6-BA6E-935B256574F7}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.366691754,-22.8057472932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">103</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">47</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Ricardo de Albuquerque</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Japeri">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">70</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">47</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Ricardo de Albuquerque </SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">3245.01918</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">3230.0274</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{06394914-EF6A-4632-BF48-9D4143A0D547}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.3982092173,-22.8396524184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesOBJECTID">98</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesCod">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesNome">Anchieta</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Mun">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Ativa">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesStatus">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOFerrovia_EstacoesFlg_Japeri">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremIdentificação">71</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremCODESTFERR">1</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremEstação">Anchieta</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2011">2268.07397</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremP2012">2248.00822</SimpleData>
+		<SimpleData name="transporte_trafegoDBOPassageiros_diarios_TremGlobalID">{944F0C3E-5751-4B19-964F-54F6F696F140}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.402903879500002,-22.824639352799998</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

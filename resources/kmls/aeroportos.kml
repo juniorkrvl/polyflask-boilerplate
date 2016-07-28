@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="Cod" type="string"></SimpleField>
+	<SimpleField name="Nome" type="string"></SimpleField>
+	<SimpleField name="Endereco" type="string"></SimpleField>
+	<SimpleField name="Telefone" type="string"></SimpleField>
+	<SimpleField name="Categoria" type="string"></SimpleField>
+	<SimpleField name="Flg_Ativa" type="int"></SimpleField>
+	<SimpleField name="Status" type="string"></SimpleField>
+	<SimpleField name="Data_Inc" type="string"></SimpleField>
+</Schema>
+<Folder><name>aeroportos</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="Cod">1</SimpleData>
+		<SimpleData name="Nome">Aeroporto Santos Dumont</SimpleData>
+		<SimpleData name="Endereco">Praça Senador Salgado Filho, s/n</SimpleData>
+		<SimpleData name="Telefone">3814-7070</SimpleData>
+		<SimpleData name="Categoria">Doméstico</SimpleData>
+		<SimpleData name="Flg_Ativa">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.165623760186364,-22.910556137712547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="Cod">2</SimpleData>
+		<SimpleData name="Nome">Aeroporto Internacional Antonio Carlos Jobim - Galeão</SimpleData>
+		<SimpleData name="Endereco">Avenida 20 de Janeiro, s/n</SimpleData>
+		<SimpleData name="Telefone">3398-5050</SimpleData>
+		<SimpleData name="Categoria">Internacional e Domestico</SimpleData>
+		<SimpleData name="Flg_Ativa">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.246290775908747,-22.81477497975785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="Cod">3</SimpleData>
+		<SimpleData name="Nome">Aeroporto de Jacarepaguá</SimpleData>
+		<SimpleData name="Endereco">Avenida Airton Senna, 2.541</SimpleData>
+		<SimpleData name="Telefone">325-2256 /</SimpleData>
+		<SimpleData name="Categoria">Doméstico</SimpleData>
+		<SimpleData name="Flg_Ativa">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-43.370439326515253,-22.987661246331367</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
